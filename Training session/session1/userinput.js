@@ -4,4 +4,4 @@
  //}
  //userinput();
 alert("Hello, world!");
-console.log(alert);
+//console.log(alert);
