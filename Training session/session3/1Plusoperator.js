@@ -2,9 +2,9 @@
 
 var mystr = 'This is string' + 'It is a joint string';
 console.log(mystr);
-//This is a stringIt is a joint string
+// output This is a stringIt is a joint string
 
 // ex
 var myName = "my name is Shailashri." + "I am not working";
 console.log(myName);
-//my name is Shailashri.I am not working
+// output my name is Shailashri.I am not working
