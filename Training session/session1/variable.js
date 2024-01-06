@@ -13,7 +13,7 @@ RULES
 var myName;//initialization
 var myID;
 var myCity;
-myName = "shailashri"; //declaration
+myName = "shaila"; //declaration
 myID = 10;
 myCity = "Bangalore";
 console.log(myName, myID, myCity);// printing all
