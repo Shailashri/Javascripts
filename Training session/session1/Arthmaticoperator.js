@@ -2,11 +2,16 @@ var x = 10;
 x++;
 console.log(x);
 
-//var x = 10; 
-//z = x + ++x;
-//console.log(z);    //11,21
-//z = x + x++;
-//console.log(z);  //11,20
+var x = 10;
+++x;
+console.log(x);
+
+var x = 10; 
+z = x + ++x;
+console.log(z);
+var x = 10;    //11,21
+z = x + x++;
+console.log(z);  //11,20
 var a = 10;
 b = a + 5 + ++a;
 console.log(a,b);    //11,26
