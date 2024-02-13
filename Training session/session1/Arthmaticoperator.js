@@ -31,7 +31,11 @@ console.log(a,b);     //13,47
 
 var a = 10;
 b = a++ + ++a + a + ++a + a++;
-console.log(a,b);     //14,60
+console.log(a,b);  
+
+var a = 10;
+b = a++ + ++a + a + ++a + a++;
+console.log(a,b);    //14,60
 
 
 
