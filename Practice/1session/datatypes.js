@@ -1,0 +1,14 @@
+var x=2;
+console.log(typeof x);
+var myStr="shaila is my name";
+console.log(myStr);
+var x=true;
+console.log(x);
+var myName;
+console.log(myName);
+var y=null;
+console.log(y);
+var object={name:"shaila",number:100};
+console.log(object);
+var Arrays=[100, "shaila", "padache", 300];
+console.log(Arrays);

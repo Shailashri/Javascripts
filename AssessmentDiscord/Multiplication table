@@ -1,0 +1,15 @@
+// Display the multiplication table
+
+/*let Number=7;
+for(i=0;i<=10;i++){
+result=i*Number;
+console.log(result);
+}*/
+
+// multiplication number upto range
+
+let num=10,range=5;
+for(i=0;i<=5;i++){
+    result=i*num;
+    console.log(result);
+}
