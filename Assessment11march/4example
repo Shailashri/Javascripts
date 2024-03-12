@@ -1,0 +1,6 @@
+// print 50 t0 100
+for(var i=50;i<=100;i++){
+console.log(i);
+}
+
+{("<><")}
